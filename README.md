@@ -13,15 +13,11 @@
   ![](https://komarev.com/ghpvc/?username=jitusd9&color=blueviolet)
   
   <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> hey there
   </h1>
   
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
@@ -34,7 +30,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I spent time more on CSS and some vanilla Javascript concepts.
 
-- :mailbox:How to reach me: [![](https://img.shields.io/badge/Twitter-cyan?logo=twitter&logoColor=white)]([your-linkedin-url](https://twitter.com/JITUsd9))
+- :mailbox:my response is quick on twitter: [![](https://img.shields.io/badge/Twitter-cyan?logo=twitter&logoColor=white)]([your-linkedin-url](https://twitter.com/JITUsd9))
 
 ---
 
